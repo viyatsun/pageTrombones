@@ -1,0 +1,31 @@
+.properties {
+    display: flex;
+    margin: 25px;
+}
+
+.properties__icon {
+width: 30%;
+display: flex;
+flex-direction: column;
+padding: 10px;
+justify-content: center;
+text-align: end;   
+}
+
+.properties__icon_iconsize {
+    font-size:35px;
+    padding:20px;
+    margin: 5px;
+} 
+
+.properties__positive {
+    margin:15px;
+    padding: 15px;
+}
+
+.h2 {
+    text-align: left;
+}
+.text-size {
+    font-size:17px;
+}
