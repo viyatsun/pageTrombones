@@ -3,6 +3,7 @@
     justify-content: center;
     width: 70%;
     margin: auto;
+    padding: 5px;
 }
 .footer__anchor {
     margin: 5px 15px;
@@ -18,4 +19,8 @@
 .footer__anchor_text {
     font-size: 17px;
     color: rgb(0,0,0);
+}
+.footer__copyright_text {
+    font-size: 15px;
+    color: rgba(0,0,0,0.3);
 }
