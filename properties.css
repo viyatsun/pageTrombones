@@ -4,12 +4,12 @@
 }
 
 .properties__icon {
-width: 30%;
-display: flex;
-flex-direction: column;
-padding: 10px;
-justify-content: center;
-text-align: end;   
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    justify-content: center;
+    text-align: end;   
 }
 
 .properties__icon_iconsize {
