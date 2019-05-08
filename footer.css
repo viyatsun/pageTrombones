@@ -1,0 +1,21 @@
+.footer {
+    background-color: rgb(221,221,221);
+    justify-content: center;
+    width: 70%;
+    margin: auto;
+}
+.footer__anchor {
+    margin: 5px 15px;
+    text-align: end;
+    padding: 5px 15px;    
+}
+.footer__copyright {
+    margin: 5px;
+    text-align: end;
+    margin: 5px;
+    padding: 5px 15px;
+}
+.footer__anchor_text {
+    font-size: 17px;
+    color: rgb(0,0,0);
+}
